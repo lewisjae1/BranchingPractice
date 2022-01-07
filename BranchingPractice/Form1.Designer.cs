@@ -34,14 +34,14 @@
             // 
             // txtName
             // 
-            this.txtName.Location = new System.Drawing.Point(217, 158);
+            this.txtName.Location = new System.Drawing.Point(91, 63);
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(125, 27);
             this.txtName.TabIndex = 0;
             // 
             // btnDisplayGreeting
             // 
-            this.btnDisplayGreeting.Location = new System.Drawing.Point(217, 213);
+            this.btnDisplayGreeting.Location = new System.Drawing.Point(91, 118);
             this.btnDisplayGreeting.Name = "btnDisplayGreeting";
             this.btnDisplayGreeting.Size = new System.Drawing.Size(125, 62);
             this.btnDisplayGreeting.TabIndex = 1;
@@ -53,7 +53,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(314, 286);
             this.Controls.Add(this.btnDisplayGreeting);
             this.Controls.Add(this.txtName);
             this.Name = "Form1";
